@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body {
+    background: rgba(153, 193, 233, 0.562);
+    color: #fff;
+    font-size: 24px;
+}
+ul {
+    width: 756px;
+    margin: 100px auto;
+    clear: both;
+}
+ul li {
+    float: left;
+    width: 250px;
+    height: 80px;
+    line-height: 80px;
+    border: 1px solid rgb(62, 62, 65);
+    text-align: center;
+}
+span {
+    display: inline-block;
+    vertical-align: middle;
+}
+#wz {
+    font-size: 24px;
+    cursor: pointer;
+}
